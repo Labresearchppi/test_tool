@@ -862,9 +862,9 @@ class Main:
 		self.loop +=1
 
 	def old2(self):
-		x = 11111111
-		xx = 99999999
-		idx = "1000000" 
+		x = 1111111
+		xx = 9999999
+		idx = "10000000" 
 		os.system('clear');print(logo)
 		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
 		try:
